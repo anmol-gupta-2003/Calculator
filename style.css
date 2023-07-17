@@ -101,7 +101,7 @@ button#equal {
     height: 130px;
 }
 
-/* light theme */
+/*------------------light theme-------------------*/
 
 .calculator {
     background-color: #fff;
@@ -131,7 +131,7 @@ button#equal {
     color: #000;
   }
 
-  /* dark theme */
+  /*----------------dark theme-------------------*/
 
   .calculator.dark {
     background-color: #071115;
